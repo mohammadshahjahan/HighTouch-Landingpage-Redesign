@@ -1,0 +1,47 @@
+export const FooterLink2 = [
+  {
+    title: "PRODUCT",
+    links: [
+      { title: "Reverse ETL", link: "" },
+      { title: "PREPARE", link: "" },
+      { title: "Customer Studio", link: "" },
+      { title: "Personalization API", link: "" },
+      { title: "Match Booster", link: "" },
+      { title: "Customer 360 Toolkit", link: "" },
+      { title: "Identity Resolution", link: "" },
+      { title: "Schema Builder", link: "" },
+      { title: "Hightouch Events", link: "" },
+      { title: "Tracking Libraries", link: "" },
+      { title: "Warehouse Schemas", link: "" },
+      { title: "Observability", link: "" },
+      { title: "Extensions", link: "" },
+      { title: "Security & Access management", link: "" },
+      { title: "All 200+ integrations", link: "" },
+    ],
+  },
+  {
+    title: "SOLUTIONS",
+    links: [
+      { title: "Marketing", link: "" },
+      { title: "Data & Analytics", link: "" },
+      { title: "Sales", link: "" },
+      { title: "Customer Success", link: "" },
+      { title: "eCommerce", link: "" },
+      { title: "Healthcare", link: "" },
+      { title: "B2B SaaS", link: "" },
+    ],
+  },
+  {
+    title: "BY TECHNOLOGY",
+    links: [
+      { title: "Snowflake", link: "" },
+      { title: "Databricks", link: "" },
+      { title: "Google BigQuery", link: "" },
+      { title: "dbt Labs", link: "" },
+      { title: "Sigma", link: "" },
+      { title: "Fivetran", link: "" },
+      { title: "Amazon Redshift", link: "" },
+      { title: "Looker", link: "" },
+    ],
+  },
+];

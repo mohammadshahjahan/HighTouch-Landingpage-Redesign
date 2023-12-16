@@ -1,0 +1,18 @@
+export const companyNames: string[] = [
+  "spotify.svg",
+  "betterment.svg",
+  "nba.webp",
+  "petsmart.webp",
+  "tripadvisor.svg",
+  "gamestop.webp",
+  "carscom.webp",
+  "weightwatchers.webp",
+  "iterable.webp",
+  "ramp.svg",
+  "plaid.svg",
+  "calendly.svg",
+  "gitlab.webp",
+  "malbyt.webp",
+  "greehouse.webp",
+  "grammarly.webp",
+];
