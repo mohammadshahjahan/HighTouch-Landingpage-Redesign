@@ -13,19 +13,19 @@ const SecurityCertifications = () => {
       </h1>
       <div className="m-10 flex justify-center">
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-5 text-white text-xl lg:text-3xl">
-          <div className="flex justify-center items-center h-48 w-48 mb-5">
+          <div className="flex justify-center items-center  mb-5">
             <Image className="h-full w-full" alt="no-image" src={soc2} />
           </div>
 
-          <div className="flex justify-center items-center h-48 w-48 mb-5">
+          <div className="flex justify-center items-center  mb-5">
             <Image className="h-full w-full" alt="no-image" src={gdpr} />
           </div>
 
-          <div className="flex justify-center items-center h-48 w-48 mb-5">
+          <div className="flex justify-center items-center  mb-5">
             <Image className="h-full w-full" alt="no-image" src={hippa} />
           </div>
 
-          <div className="flex justify-center items-center h-48 w-48 mb-5">
+          <div className="flex justify-center items-center  mb-5">
             <Image className="h-full w-full" alt="no-image" src={ccpa} />
           </div>
         </div>

@@ -44,6 +44,7 @@ const Services: React.FC<ServicesProps> = ({
           autoPlay
           muted
           loop
+          playsInline
           className="responsive-video"
         />
       </div>

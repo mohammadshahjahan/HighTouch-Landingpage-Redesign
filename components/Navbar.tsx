@@ -50,9 +50,12 @@ function Navbar() {
           {open && (
             <div
               className={` group relative z-10  cursor-pointer items-center gap-1
-            " bg-[#fff;] p-2 m-2 mt-44 bottom-0 rounded-2xl border-t-2 border-l-2 border-r-2 border-b-2"
+            " bg-[#fff;] p-2 m-2 mt-56 bottom-0 rounded-2xl border-t-2 border-l-2 border-r-2 border-b-2"
              `}
             >
+              <div className="text-[#28322b] text-right text-3xl  p-1 ">
+                <p>X</p>
+              </div>
               {NavbarLinks.map((link) => (
                 <>
                   <div className="text-[#28322b] hover:text-[#fff] hover:bg-[#28322b] p-1 ">
