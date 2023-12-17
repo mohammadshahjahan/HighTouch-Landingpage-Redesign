@@ -11,7 +11,7 @@ function Navbar() {
 
   return (
     <div
-      className={`flex h-14 items-center justify-center border-b-[1px] border-b-richblack-700  transition-all duration-200`}
+      className={`flex h-14 items-center justify-center   transition-all duration-200`}
     >
       <div className="flex w-11/12 max-w-maxContent items-center justify-between">
         {/* Logo */}
@@ -40,7 +40,7 @@ function Navbar() {
             </button>
           </Link>
           <Link href={"/"}>
-            <button className="rounded-[8px] border border-[#262c28] bg-white px-[12px] py-[8px] text-lime-500">
+            <button className="rounded-[8px] border border-[#262c28] bg-white px-[12px] py-[8px] text-black ">
               Get Demo
             </button>
           </Link>
