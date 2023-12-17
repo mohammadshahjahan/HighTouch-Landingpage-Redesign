@@ -5,6 +5,7 @@ import Navbar from "@/components/Navbar";
 import SecurityCertifications from "@/components/SecurityCertifications";
 import Services from "@/components/Services";
 import Services2 from "@/components/Services2";
+import StorySection from "@/components/Story/StorySection";
 
 export default function Home() {
   return (
@@ -36,6 +37,7 @@ export default function Home() {
           linkText="Learn more about Customer Studio"
           videoSrc="toolkit.webm"
         />
+        <StorySection />
         <SecurityCertifications />
         <Footer />
       </div>
