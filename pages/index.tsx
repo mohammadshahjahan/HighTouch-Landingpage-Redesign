@@ -2,6 +2,7 @@ import Companies from "@/components/Companies";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
+import SecurityCertifications from "@/components/SecurityCertifications";
 import Services from "@/components/Services";
 import Services2 from "@/components/Services2";
 
@@ -35,6 +36,7 @@ export default function Home() {
           linkText="Learn more about Customer Studio"
           videoSrc="toolkit.webm"
         />
+        <SecurityCertifications />
         <Footer />
       </div>
     </main>
