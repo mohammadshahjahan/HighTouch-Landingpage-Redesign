@@ -16,7 +16,7 @@ const Hero = () => {
 
           <div>
             <input
-              className="pl-3 w-full md:hidden"
+              className="pl-3 border-none outline-none text-black w-full md:hidden"
               placeholder="Work Email"
             ></input>
           </div>
